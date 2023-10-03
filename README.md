@@ -1,9 +1,13 @@
 # Nate.js
-Create event smee.io (Webhook) use the our npm
-
+Create server use the our npm
+![GitHub watchers](https://img.shields.io/github/watchers/HoaQuyingVN/nate.js) ![GitHub watchers](https://img.shields.io/github/watchers/HoaQuyingVN/nate.js)
 # Install?
 ```sh
 npm install --save-dev nate.js
+```
+or
+```sh
+npm view nate.js | npm install
 ```
 # Example
 [View here](./example)
