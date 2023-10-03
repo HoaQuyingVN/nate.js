@@ -1,0 +1,21 @@
+ {
+  "name": "nate.js",
+  "version": "0.70.5",
+  "description": "An make channel for Smee.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nate",
+  "license": "MIT ",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "node-fetch": "^3.2.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://git.sr.ht/~anaternothello/nate.js"
+  }
+}
