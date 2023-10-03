@@ -1,5 +1,6 @@
-# Nate.js
-Create server use the our npm
+![Banner](banner.png)
+ # Nate.js
+Create a bot use the our npm
 ![GitHub watchers](https://img.shields.io/github/watchers/HoaQuyingVN/nate.js) ![GitHub watchers](https://img.shields.io/github/watchers/HoaQuyingVN/nate.js)
 # Install?
 ```sh
